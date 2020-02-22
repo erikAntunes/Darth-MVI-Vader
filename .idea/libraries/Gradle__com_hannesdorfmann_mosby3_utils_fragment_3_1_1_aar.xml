@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.hannesdorfmann.mosby3:utils-fragment:3.1.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8ca859fd8bad8e57485c884ba65bd4cd/jetified-utils-fragment-3.1.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8ca859fd8bad8e57485c884ba65bd4cd/jetified-utils-fragment-3.1.1/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.hannesdorfmann.mosby3/utils-fragment/3.1.1/b1fbc8aab4a93cac28078395ea2b7dc2e41a66d1/utils-fragment-3.1.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.hannesdorfmann.mosby3/utils-fragment/3.1.1/58b0847c0547afd730b4ed8367894ee6722ae27a/utils-fragment-3.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

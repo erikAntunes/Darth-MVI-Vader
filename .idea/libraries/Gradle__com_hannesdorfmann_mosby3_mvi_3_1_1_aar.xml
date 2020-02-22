@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.hannesdorfmann.mosby3:mvi:3.1.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/927846dadfb239f93313fd0c42b37eef/jetified-mvi-3.1.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/927846dadfb239f93313fd0c42b37eef/jetified-mvi-3.1.1/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.hannesdorfmann.mosby3/mvi/3.1.1/659c2fbba3030c4e0226cacd5bfb0bc19d57618a/mvi-3.1.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.hannesdorfmann.mosby3/mvi/3.1.1/174277c134ad08816d824d295aace5a5ade1a50c/mvi-3.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
